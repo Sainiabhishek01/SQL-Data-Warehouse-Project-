@@ -1,9 +1,9 @@
 SQL Data Warehouse Project
 A modern end-to-end data warehouse solution using SQL Server, featuring ETL pipelines, data modeling, and analytics.
-
+==================================================================================================================================
 Project Overview
 This project demonstrates how to build a modern data warehouse using the Medallion Architecture (Bronze, Silver, Gold) to support scalable and efficient analytics.
-
+==================================================================================================================================
 Key Components:
 Data Architecture: Design of the Medallion architecture (Bronze, Silver, Gold layers).
 
@@ -15,8 +15,9 @@ Analytics & Reporting: SQL-based dashboards and reports to derive actionable ins
 
 This is my first end-to-end project as an aspiring Data Analyst. It is a semi-guided project, allowing me to learn by following structured steps while also applying independent problem-solving and critical thinking throughout the ETL, modeling, and reporting phases.
 
+===================================
 Datasets: ERP and CRM CSV files.
-
+===================================
 SQL Server Express: Lightweight database server.
 
 SQL Server Management Studio (SSMS): GUI for managing databases.
