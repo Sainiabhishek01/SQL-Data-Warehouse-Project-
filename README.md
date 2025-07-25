@@ -34,7 +34,7 @@ Objective
 Consolidate sales data into a centralized SQL Server warehouse to enable deep analytical reporting.
 
 Specifications
-
+=================================================
 Data Sources: Import CSV data from two systems — ERP and CRM.
 
 Data Cleaning: Address inconsistencies and ensure data quality.
@@ -50,7 +50,7 @@ Objective
 Use SQL to extract insights that support strategic decision-making.
 
 Focus Areas
-
+=============================
 Customer behavior patterns
 
 Product performance metrics
