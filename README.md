@@ -17,6 +17,8 @@ Data Modeling: Star schema design with fact and dimension tables optimized for a
 Analytics & Reporting: SQL-based dashboards and reports to derive actionable insights.
 
 This is my first end-to-end project as an aspiring Data Analyst. It is a semi-guided project, allowing me to learn by following structured steps while also applying independent problem-solving and critical thinking throughout the ETL, modeling, and reporting phases.
+
+ Data Architecture
 ========================================================================================================================================
 ![image alt](https://github.com/Sainiabhishek01/SQL-Data-Warehouse-Project-/blob/c596cfaad54a66a4ccd62f537c0bae701cf1a85f/Data%20warehouse%20Architecture%20Digram.jpg)
 
