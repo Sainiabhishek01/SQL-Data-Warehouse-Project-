@@ -55,8 +55,10 @@ Phase 2: Data Analytics — Deliver Business Insights
 Objective
 Use SQL to extract insights that support strategic decision-making.
 
-Focus Areas
-=============================
-Customer behavior patterns
+Primary Learning Goals
+=================================================
+ETL Pipelines – How to move and transform data between layers.
 
-Product performance metrics
+Data Modeling – Designing star schema for analytics.
+
+Performance Optimization – Writing efficient SQL queries for reporting
