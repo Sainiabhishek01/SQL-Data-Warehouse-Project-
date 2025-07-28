@@ -17,6 +17,21 @@ Analytics & Reporting: SQL-based dashboards and reports to derive actionable ins
 
 This is my first end-to-end project as an aspiring Data Analyst. It is a semi-guided project, allowing me to learn by following structured steps while also applying independent problem-solving and critical thinking throughout the ETL, modeling, and reporting phases.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Datasets: ERP and CRM CSV files.
 ===================================
 SQL Server Express: Lightweight database server.
